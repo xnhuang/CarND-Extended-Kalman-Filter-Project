@@ -1,0 +1,180 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
+    Vendor:   NVIDIA
+    VRAM:     8034 MB
+    Driver:   21.20.16.4550
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Xianan\UdacityAV\CarND-Extended-Kalman-Filter-Project-master\kalman_tracker_windows\kalman_tracker_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Xianan\UdacityAV\CarND-Extended-Kalman-Filter-Project-master\kalman_tracker_windows\kalman_tracker_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Xianan\UdacityAV\CarND-Extended-Kalman-Filter-Project-master\kalman_tracker_windows\kalman_tracker_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Xianan\UdacityAV\CarND-Extended-Kalman-Filter-Project-master\kalman_tracker_windows\kalman_tracker_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Xianan\UdacityAV\CarND-Extended-Kalman-Filter-Project-master\kalman_tracker_windows\kalman_tracker_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Xianan\UdacityAV\CarND-Extended-Kalman-Filter-Project-master\kalman_tracker_windows\kalman_tracker_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Xianan\UdacityAV\CarND-Extended-Kalman-Filter-Project-master\kalman_tracker_windows\kalman_tracker_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Xianan\UdacityAV\CarND-Extended-Kalman-Filter-Project-master\kalman_tracker_windows\kalman_tracker_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Xianan\UdacityAV\CarND-Extended-Kalman-Filter-Project-master\kalman_tracker_windows\kalman_tracker_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Xianan\UdacityAV\CarND-Extended-Kalman-Filter-Project-master\kalman_tracker_windows\kalman_tracker_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Xianan\UdacityAV\CarND-Extended-Kalman-Filter-Project-master\kalman_tracker_windows\kalman_tracker_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Xianan\UdacityAV\CarND-Extended-Kalman-Filter-Project-master\kalman_tracker_windows\kalman_tracker_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\Xianan\UdacityAV\CarND-Extended-Kalman-Filter-Project-master\kalman_tracker_windows\kalman_tracker_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Xianan\UdacityAV\CarND-Extended-Kalman-Filter-Project-master\kalman_tracker_windows\kalman_tracker_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.019 seconds
+Platform assembly: D:\Xianan\UdacityAV\CarND-Extended-Kalman-Filter-Project-master\kalman_tracker_windows\kalman_tracker_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Xianan\UdacityAV\CarND-Extended-Kalman-Filter-Project-master\kalman_tracker_windows\kalman_tracker_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\Xianan\UdacityAV\CarND-Extended-Kalman-Filter-Project-master\kalman_tracker_windows\kalman_tracker_Data\Managed\Mono.Security.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3120x1920 at 0,-650
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.558323 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 440 -> priority: 1 
+  Thread -> id: 938 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.021898 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 471.
+Total: 0.270140 ms (FindLiveObjects: 0.022918 ms CreateObjectMapping: 0.010971 ms MarkObjects: 0.204312 ms  DeleteObjects: 0.025112 ms)
+
+trying to connect
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+4/3/2017 2:12:33 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+4/3/2017 2:12:34 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+4/3/2017 2:12:35 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+4/3/2017 2:12:36 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+4/3/2017 2:12:37 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+4/3/2017 2:12:38 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+4/3/2017 2:12:39 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+4/3/2017 2:12:40 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+4/3/2017 2:12:41 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+4/3/2017 2:12:42 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+4/3/2017 2:12:43 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+4/3/2017 2:12:44 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+4/3/2017 2:12:45 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+4/3/2017 2:12:46 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+4/3/2017 2:12:47 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+4/3/2017 2:12:48 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+4/3/2017 2:12:49 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+4/3/2017 2:12:50 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+4/3/2017 2:12:51 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+4/3/2017 2:12:52 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+4/3/2017 2:12:53 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+4/3/2017 2:12:54 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+                          
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                            at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+4/3/2017 2:12:55 PM|Error|WebSocket.Send|The WebSocket connection has already been closed.
+4/3/2017 2:12:55 PM|Error|WebSocket.Send|The WebSocket connection has already been closed.
